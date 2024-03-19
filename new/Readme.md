@@ -2,7 +2,7 @@ Dependencies:
   -mysql
   -tesseract
 
-/upload:Upload the files 
+/upload:Upload the file
 
 
 /login:
