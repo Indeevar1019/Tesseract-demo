@@ -11,7 +11,7 @@ Dependencies:
    password:''
 }
 
-register
+/register
 {
     "firstName":,
     "lastName":,
